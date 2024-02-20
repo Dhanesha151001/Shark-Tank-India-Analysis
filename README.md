@@ -1,4 +1,3 @@
-# Shark_Tank_India_Data_Analysis
 
 <h3>Shark Tank India S1: Entrepreneurs pitch ideas to investors.</h3>
 <p>&nbsp;</p>
